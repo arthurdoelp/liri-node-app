@@ -19,24 +19,24 @@ See below for associated screenshots:
 
 concert-this:
 ![Image of concert-this]
-(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/concert-this.png?raw=true)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/concert-this.png)
 
 spotify-this-song:
 ![Image of spotify-this-song]
-(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/spotify-this-song.png?raw=true)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/spotify-this-song.png)
 
 movie-this:
 ![Image of movie-this]
-(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/movie-this.png?raw=true)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/movie-this.png)
 
 do-what-it-says -> concert-this:
 ![Image of do-concert-this]
-(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-concert-this.png?raw=true)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-concert-this.png)
 
 do-what-it-says -> spotify-this-song:
 ![Image of do-spotify-this-song]
-(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-spotify-this-song.png?raw=true)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-spotify-this-song.png)
 
 do-what-it-says -> movie-this:
 ![Image of do-movie-this]
-(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-movie-this.png?raw=true)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-movie-this.png)
