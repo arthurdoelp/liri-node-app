@@ -19,24 +19,24 @@ See below for associated screenshots:
 
 concert-this:
 ![Image of concert-this]
-(./Images/concert-this.png)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/concert-this.png?raw=true)
 
 spotify-this-song:
 ![Image of spotify-this-song]
-(./Images/spotify-this-song.png)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/spotify-this-song.png?raw=true)
 
 movie-this:
 ![Image of movie-this]
-(./Images/movie-this.png)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/movie-this.png?raw=true)
 
 do-what-it-says -> concert-this:
 ![Image of do-concert-this]
-(./Images/do-concert-this.png)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-concert-this.png?raw=true)
 
 do-what-it-says -> spotify-this-song:
 ![Image of do-spotify-this-song]
-(./Images/do-spotify-this-song.png)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-spotify-this-song.png?raw=true)
 
 do-what-it-says -> movie-this:
 ![Image of do-movie-this]
-(./Images/do-movie-this.png)
+(https://github.com/arthurdoelp/liri-node-app/blob/master/Images/do-movie-this.png?raw=true)
